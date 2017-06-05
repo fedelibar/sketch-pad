@@ -9,6 +9,18 @@
 	background-color: #9E7F7F;
 }
 
+.options p {
+	font-size: 32px;
+	padding: 0.5%;
+	color: #38F4D5;
+	font-family: 'Vibur', cursive;
+
+}
+
+.options input {
+	margin: 0.5%;
+}
+
 .table {
 	background-color: #EAD0D0;
 	width:100%;
@@ -25,6 +37,6 @@
 	margin: auto;
 	padding: auto;
 	background-color: white;
-	top: 10%;
+	top: 5%;
 	
 }
