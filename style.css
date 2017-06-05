@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.options {
+	text-align:center;
+	background-color: #9E7F7F;
+}
+
+.table {
+	background-color: #EAD0D0;
+	width:100%;
+	height:100%;
+}
+
+.board {
+	display: grid;
+	width: 500px;
+	height: 500px;
+	border: 2px solid black;
+	border-radius: 5px;
+	position:relative;
+	margin: auto;
+	padding: auto;
+	background-color: white;
+	top: 10%;
+	
+}
